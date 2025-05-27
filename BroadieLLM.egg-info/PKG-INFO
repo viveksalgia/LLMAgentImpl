@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: BroadieLLM
+Version: 1.0
+Summary: A Broadie Chat module
+Author: Vivek Salgia
+Author-email: vsalgia@broadinstitute.org
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary

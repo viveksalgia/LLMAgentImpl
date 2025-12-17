@@ -5,7 +5,7 @@ setup(
     version="1.0",
     description="A Broadie Chat module",
     author="Vivek Salgia",
-    author_email="vsalgia@broadinstitute.org",
+    author_email="vivek.salgia@gmail.com",
     packages=find_packages(),  # same as name
     # install_requires=["wheel", "bar", "greek"],  # external packages as dependencies
 )

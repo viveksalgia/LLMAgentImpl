@@ -72,7 +72,7 @@ def invoke(identifier: str, role: str) -> str:
     #     "IntegrationVersion": "1.00.000",
     #     "SuccessNotification": [
     #         {
-    #             "SuccessEmailTo": "vsalgia@broadinstitute.org",
+    #             "SuccessEmailTo": "vivek.salgia@gmail.com",
     #             "SuccessFlag": "Y","""
     #     + f'"SuccessEmailSubject": "This is a test email for {identifier} "'
     #     + """,
